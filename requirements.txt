@@ -4,3 +4,6 @@ rosu-pp-py>=1.0.0
 aiohttp>=3.8.0
 aiofiles>=23.0.0
 requests>=2.28.0
+
+# Build tools (optional - only needed for creating executables)
+pyinstaller>=6.0.0
